@@ -1,0 +1,3 @@
+[20-Apr-2020 06:49:53 UTC] PHP Warning:  require(/work/laravel/vendor/autoload.php): failed to open stream: No such file or directory in /work/laravel/artisan on line 18
+[20-Apr-2020 06:52:11 UTC] PHP Warning:  require(/work/laravel/vendor/autoload.php): failed to open stream: No such file or directory in /work/laravel/artisan on line 18
+[20-Apr-2020 07:00:37 UTC] PHP Warning:  require(/work/laravel/vendor/autoload.php): failed to open stream: No such file or directory in /work/laravel/artisan on line 18
